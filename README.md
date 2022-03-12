@@ -6,5 +6,7 @@ _Mario Cuomo_
 
 | PROBLEMA | SOLUZIONE | DIFFICOLTÀ | DATA RISOLUZIONE | LINGUAGGIO
 | :---: | :---: | :---: | :---: | :---: |
-| [Two Sum](https://leetcode.com/submissions/detail/658025030/) | [link](https://leetcode.com/submissions/detail/658025030/) | :green_circle: | 11.03.2022 | _Python_
+| [Two Sum](https://leetcode.com/problems/two-sum) | [link](https://leetcode.com/submissions/detail/658025030/) | :green_circle: | 11.03.2022 | _Python_
+| [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [link](https://leetcode.com/submissions/detail/658428755/) | :green_circle: | 12.03.2022 | _Python_
+| [Plus One](https://leetcode.com/problems/plus-one/) | [link](https://leetcode.com/submissions/detail/658437132/) | :green_circle: | 12.03.2022 | _Python_
 
