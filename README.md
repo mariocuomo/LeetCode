@@ -1,6 +1,9 @@
 # LeetCode
-Condivisione soluzione di alcuni problemi proposti sulla piattaforma LeetCode.
+<div align="center">
+  <img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg">
+</div>
 
+Condivisione soluzione di alcuni problemi proposti sulla piattaforma LeetCode.<br>
 [Link](https://leetcode.com/mariocuomo/) al mio profilo personale.<br>
 _Mario Cuomo_
 
