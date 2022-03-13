@@ -11,6 +11,8 @@ _Mario Cuomo_
 | [Plus One](https://leetcode.com/problems/plus-one/) | [link](https://leetcode.com/submissions/detail/658437132/) | :green_circle: | 12.03.2022 | _Python_
 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [link](https://leetcode.com/submissions/detail/659080042/) | :green_circle: | 13.03.2022 | _Python_
 | [Same Tree](https://leetcode.com/problems/same-tree/) | [link](https://leetcode.com/submissions/detail/659344470/) | :green_circle: | 13.03.2022 | _Python_
+| [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [link](https://leetcode.com/submissions/detail/659416030/) | :orange_circle: | 13.03.2022 | _Python3_
+
 
 
 
