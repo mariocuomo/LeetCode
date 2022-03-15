@@ -18,6 +18,8 @@ _Mario Cuomo_
 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [link](https://leetcode.com/submissions/detail/659805324/) | :orange_circle: | 14.03.2022 | _Python_
 | [Sum Of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [link](https://leetcode.com/submissions/detail/660046776/) | :green_circle: | 14.03.2022 | _Python_
 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [link](https://leetcode.com/submissions/detail/660053174/) | :orange_circle: | 14.03.2022 | _Python_
+| [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [link](https://leetcode.com/submissions/detail/660613483/) | :orange_circle: | 15.03.2022 | _Python_
+
 
 
 
