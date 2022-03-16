@@ -23,6 +23,7 @@ _Mario Cuomo_
 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [link](https://leetcode.com/submissions/detail/660736344/) | :green_circle: | 15.03.2022 | _Python_
 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [link](https://leetcode.com/submissions/detail/661250024/) | :green_circle: | 16.03.2022 | _Python_
 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [link](https://leetcode.com/submissions/detail/661281874/) | :green_circle: | 16.03.2022 | _Python_
+| [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [link](https://leetcode.com/submissions/detail/661382845/) | :orange_circle: | 16.03.2022 | _Python_
 
 
 
