@@ -25,7 +25,8 @@ _Mario Cuomo_
 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [link](https://leetcode.com/submissions/detail/661281874/) | :green_circle: | 16.03.2022 | _Python_
 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [link](https://leetcode.com/submissions/detail/661382845/) | :orange_circle: | 16.03.2022 | _Python_
 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [link](https://leetcode.com/submissions/detail/661386069/) | :green_circle: | 16.03.2022 | _Python_
-| [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [link](https://leetcode.com/submissions/detail/661794429/) | :green_circle: | 17.03.2022 | _Python_
+| [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [link](https://leetcode.com/submissions/detail/661794429/) | :green_circle: | 17.03.2022 | _Python3_
+| [Counting Bits](https://leetcode.com/problems/counting-bits/) | [link](https://leetcode.com/submissions/detail/661798179/) | :green_circle: | 17.03.2022 | _Python_
 
 
 
