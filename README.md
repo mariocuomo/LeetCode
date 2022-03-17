@@ -27,6 +27,7 @@ _Mario Cuomo_
 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [link](https://leetcode.com/submissions/detail/661386069/) | :green_circle: | 16.03.2022 | _Python_
 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [link](https://leetcode.com/submissions/detail/661794429/) | :green_circle: | 17.03.2022 | _Python3_
 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [link](https://leetcode.com/submissions/detail/661798179/) | :green_circle: | 17.03.2022 | _Python_
+| [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [link](https://leetcode.com/submissions/detail/661823258/) | :green_circle: | 17.03.2022 | _Python_
 
 
 
