@@ -28,6 +28,7 @@ _Mario Cuomo_
 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [link](https://leetcode.com/submissions/detail/661794429/) | :green_circle: | 17.03.2022 | _Python3_
 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [link](https://leetcode.com/submissions/detail/661798179/) | :green_circle: | 17.03.2022 | _Python_
 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [link](https://leetcode.com/submissions/detail/661823258/) | :green_circle: | 17.03.2022 | _Python_
+| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [link](https://leetcode.com/submissions/detail/662459087/) | :orange_circle: | 18.03.2022 | _Python_
 
 
 
