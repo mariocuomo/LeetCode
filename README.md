@@ -30,6 +30,7 @@ _Mario Cuomo_
 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [link](https://leetcode.com/submissions/detail/661823258/) | :green_circle: | 17.03.2022 | _Python_
 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [link](https://leetcode.com/submissions/detail/662459087/) | :orange_circle: | 18.03.2022 | _Python_
 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [link](https://leetcode.com/submissions/detail/662509828/) | :green_circle: | 18.03.2022 | _Python_
+| [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [link](https://leetcode.com/submissions/detail/662601657/) | :green_circle: | 18.03.2022 | _Python_
 
 
 
