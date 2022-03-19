@@ -35,6 +35,7 @@ _Mario Cuomo_
 | [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | [link](https://leetcode.com/submissions/detail/662895555/) | :orange_circle: | 19.03.2022 | _Python_
 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [link](https://leetcode.com/submissions/detail/663011215/) | :orange_circle: | 19.03.2022 | _Python_
 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [link](https://leetcode.com/submissions/detail/663025280/) | :green_circle: | 19.03.2022 | _MySQL_
+| [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/) | [link](https://leetcode.com/submissions/detail/663063973/) | :green_circle: | 19.03.2022 | _Bash_
 
 
 
