@@ -33,6 +33,7 @@ _Mario Cuomo_
 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [link](https://leetcode.com/submissions/detail/662601657/) | :green_circle: | 18.03.2022 | _Python_
 | [Power of Two](https://leetcode.com/problems/power-of-two) | [link](https://leetcode.com/submissions/detail/662883567/) | :green_circle: | 19.03.2022 | _Python_
 | [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | [link](https://leetcode.com/submissions/detail/662895555/) | :orange_circle: | 19.03.2022 | _Python_
+| [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [link](https://leetcode.com/submissions/detail/663011215/) | :orange_circle: | 19.03.2022 | _Python_
 
 
 
