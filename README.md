@@ -31,6 +31,7 @@ _Mario Cuomo_
 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [link](https://leetcode.com/submissions/detail/662459087/) | :orange_circle: | 18.03.2022 | _Python_
 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [link](https://leetcode.com/submissions/detail/662509828/) | :green_circle: | 18.03.2022 | _Python_
 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [link](https://leetcode.com/submissions/detail/662601657/) | :green_circle: | 18.03.2022 | _Python_
+| [Power of Two](https://leetcode.com/problems/power-of-two) | [link](https://leetcode.com/submissions/detail/662883567/) | :green_circle: | 19.03.2022 | _Python_
 
 
 
