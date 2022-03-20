@@ -37,6 +37,7 @@ _Mario Cuomo_
 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [link](https://leetcode.com/submissions/detail/663025280/) | :green_circle: | 19.03.2022 | _MySQL_
 | [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/) | [link](https://leetcode.com/submissions/detail/663063973/) | :green_circle: | 19.03.2022 | _Bash_
 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [link](https://leetcode.com/submissions/detail/663220102/) | :orange_circle: | 19.03.2022 | _Python_
+| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [link](https://leetcode.com/submissions/detail/663607891/) | :green_circle: | 20.03.2022 | _Python_
 
 
 
