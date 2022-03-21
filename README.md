@@ -41,7 +41,8 @@ _Mario Cuomo_
 | [Sort List](https://leetcode.com/problems/sort-list/) | [link](https://leetcode.com/submissions/detail/663615912/) | :orange_circle: | 20.03.2022 | _Python_
 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [link](https://leetcode.com/submissions/detail/664566758/) | :green_circle: | 21.03.2022 | _Python_
 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | [link](https://leetcode.com/submissions/detail/664574788/) | :green_circle: | 21.03.2022 | _Python_
-| [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | [link](https://leetcode.com/submissions/detail/664576491/) | :green_circle: | 21.03.2022 | _Python_
+| [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [link](https://leetcode.com/submissions/detail/664576491/) | :green_circle: | 21.03.2022 | _Python_
+| [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | [link](https://leetcode.com/submissions/detail/664602667/) | :green_circle: | 21.03.2022 | _Python_
 
 
 
