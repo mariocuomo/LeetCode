@@ -40,6 +40,7 @@ _Mario Cuomo_
 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [link](https://leetcode.com/submissions/detail/663607891/) | :green_circle: | 20.03.2022 | _Python_
 | [Sort List](https://leetcode.com/problems/sort-list/) | [link](https://leetcode.com/submissions/detail/663615912/) | :orange_circle: | 20.03.2022 | _Python_
 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [link](https://leetcode.com/submissions/detail/664566758/) | :green_circle: | 21.03.2022 | _Python_
+| [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | [link](https://leetcode.com/submissions/detail/664574788/) | :green_circle: | 21.03.2022 | _Python_
 
 
 
