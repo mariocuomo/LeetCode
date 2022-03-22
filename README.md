@@ -43,6 +43,7 @@ _Mario Cuomo_
 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | [link](https://leetcode.com/submissions/detail/664574788/) | :green_circle: | 21.03.2022 | _Python_
 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [link](https://leetcode.com/submissions/detail/664576491/) | :green_circle: | 21.03.2022 | _Python_
 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | [link](https://leetcode.com/submissions/detail/664602667/) | :green_circle: | 21.03.2022 | _Python_
+| [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [link](https://leetcode.com/submissions/detail/665032191/) | :green_circle: | 22.03.2022 | _Python_
 
 
 
