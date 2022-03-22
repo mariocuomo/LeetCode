@@ -46,9 +46,5 @@ _Mario Cuomo_
 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [link](https://leetcode.com/submissions/detail/665032191/) | :green_circle: | 22.03.2022 | _Python_
 | [Partition List](https://leetcode.com/problems/partition-list/) | [link](https://leetcode.com/submissions/detail/665040226/) | :orange_circle: | 22.03.2022 | _Python_
 | [Min Stack](https://leetcode.com/problems/min-stack/) | [link](https://leetcode.com/submissions/detail/665070653/) | :green_circle: | 22.03.2022 | _Python_
-
-
-
-
-
+| [Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/) | [link](https://leetcode.com/submissions/detail/665091185/) | :orange_circle: | 22.03.2022 | _Python_
 
