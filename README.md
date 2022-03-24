@@ -49,4 +49,4 @@ _Mario Cuomo_
 | [Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/) | [link](https://leetcode.com/submissions/detail/665091185/) | :orange_circle: | 22.03.2022 | _Python_
 | [Two Out of Three](https://leetcode.com/problems/two-out-of-three/) | [link](https://leetcode.com/submissions/detail/665672875/) | :green_circle: | 23.03.2022 | _Python_
 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [link](https://leetcode.com/submissions/detail/665683071/) | :orange_circle: | 23.03.2022 | _Python_
-
+| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [link](https://leetcode.com/submissions/detail/666396861/) | :green_circle: | 24.03.2022 | _Python_
