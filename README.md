@@ -52,3 +52,4 @@ _Mario Cuomo_
 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [link](https://leetcode.com/submissions/detail/666396861/) | :green_circle: | 24.03.2022 | _Python_ | 48.74 % | 92.13 %
 | [Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/) | [link](https://leetcode.com/submissions/detail/666411203/) | :green_circle: | 24.03.2022 | _Python_ | 90.80 % | 78.16 %
 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [link](https://leetcode.com/submissions/detail/667041145/) | :orange_circle: | 25.03.2022 | _Python_ | 98.04 % | **too memory!**
+| [Big Countries](https://leetcode.com/problems/big-countries/) | [link](https://leetcode.com/submissions/detail/667237805/) | :orange_circle: | 25.03.2022 | _SQL_ | 25.25 % | 100 %
