@@ -51,3 +51,4 @@ _Mario Cuomo_
 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [link](https://leetcode.com/submissions/detail/665683071/) | :orange_circle: | 23.03.2022 | _Python_
 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [link](https://leetcode.com/submissions/detail/666396861/) | :green_circle: | 24.03.2022 | _Python_
 | [Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/) | [link](https://leetcode.com/submissions/detail/666411203/) | :green_circle: | 24.03.2022 | _Python_
+| [Rotate Array](https://leetcode.com/problems/rotate-array/) | [link](https://leetcode.com/submissions/detail/667041145/) | :orange_circle: | 25.03.2022 | _Python_
