@@ -54,7 +54,7 @@ _Mario Cuomo_
 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [link](https://leetcode.com/submissions/detail/667041145/) | :orange_circle: | 25.03.2022 | _Python_ | 98.04 % | **too memory!**
 | [Big Countries](https://leetcode.com/problems/big-countries/) | [link](https://leetcode.com/submissions/detail/667237805/) | :green_circle: | 25.03.2022 | _SQL_ | 25.25 % | 100 %
 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [link](https://leetcode.com/submissions/detail/667547504/) | :orange_circle: | 26.03.2022 | _Python_ | 75.75 % | 29.06 %
-| [Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/) | [link](https://leetcode.com/submissions/detail/667561115/) | :green_circle: | 26.03.2022 | _Python_ | 83.44% % | 77.50% %
+| [Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/) | [link](https://leetcode.com/submissions/detail/667561115/) | :green_circle: | 26.03.2022 | _Python_ | 83.44 % | 77.50 %
 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [link](https://leetcode.com/submissions/detail/667757380/) | :green_circle: | 26.03.2022 | _Python_ | 51.64 % | 95.91 %
 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [link](https://leetcode.com/submissions/detail/668179901/) | :green_circle: | 27.03.2022 | _Python_ | 46.18% | 90.74 %
-| [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [link](https://leetcode.com/submissions/detail/668215829/) | :orange_circle: | 27.03.2022 | _Python_ | 15.30% | 90.86%
+| [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [link](https://leetcode.com/submissions/detail/668215829/) | :orange_circle: | 27.03.2022 | _Python_ | 15.30 % | 90.86 %
