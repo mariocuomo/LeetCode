@@ -56,3 +56,4 @@ _Mario Cuomo_
 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [link](https://leetcode.com/submissions/detail/667547504/) | :orange_circle: | 26.03.2022 | _Python_ | 75.75 % | 29.06 %
 | [Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/) | [link](https://leetcode.com/submissions/detail/667561115/) | :green_circle: | 26.03.2022 | _Python_ | 83.44% % | 77.50% %
 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [link](https://leetcode.com/submissions/detail/667757380/) | :green_circle: | 26.03.2022 | _Python_ | 51.64 % | 95.91 %
+| [Power of Three](https://leetcode.com/problems/power-of-three/) | [link](https://leetcode.com/submissions/detail/668179901/) | :green_circle: | 27.03.2022 | _Python_ | 46.18% | 90.74 %
