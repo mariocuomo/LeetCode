@@ -62,4 +62,5 @@ _Mario Cuomo_
 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [link](https://leetcode.com/submissions/detail/668361289/) | :green_circle: | 27.03.2022 | _Python_ | 55.96 % | 95.12 % 
 | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) | [link](https://leetcode.com/submissions/detail/668366937/) | :green_circle: | 27.03.2022 | _Python_ | 95.50 % | 81.98 %
 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [link](https://leetcode.com/submissions/detail/668842486/) | :green_circle: | 28.03.2022 | _Python_ | 71.95 % | 53.00 %
-| [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [link](https://leetcode.com/submissions/detail/668848057/) | :green_circle: | 28.03.2022 | _Python_ | 64.76 % | 17.07 % %
+| [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [link](https://leetcode.com/submissions/detail/668848057/) | :green_circle: | 28.03.2022 | _Python_ | 64.76 % | 17.07 %
+| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [link](https://leetcode.com/submissions/detail/669167163/) | :green_circle: | 28.03.2022 | _Python_ | 55.98 % | 15.49 %
