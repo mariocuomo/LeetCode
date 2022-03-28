@@ -61,3 +61,4 @@ _Mario Cuomo_
 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [link](https://leetcode.com/submissions/detail/668352640/) | :green_circle: | 27.03.2022 | _Python_ | 71.67 % | 97.53 % 
 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [link](https://leetcode.com/submissions/detail/668361289/) | :green_circle: | 27.03.2022 | _Python_ | 55.96 % | 95.12 % 
 | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) | [link](https://leetcode.com/submissions/detail/668366937/) | :green_circle: | 27.03.2022 | _Python_ | 95.50 % | 81.98 %
+| [Reverse String](https://leetcode.com/problems/reverse-string/) | [link](https://leetcode.com/submissions/detail/668842486/) | :green_circle: | 28.03.2022 | _Python_ | 71.95 % | 53.00 %
