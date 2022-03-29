@@ -64,3 +64,4 @@ _Mario Cuomo_
 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [link](https://leetcode.com/submissions/detail/668842486/) | :green_circle: | 28.03.2022 | _Python_ | 71.95 % | 53.00 %
 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [link](https://leetcode.com/submissions/detail/668848057/) | :green_circle: | 28.03.2022 | _Python_ | 64.76 % | 17.07 %
 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [link](https://leetcode.com/submissions/detail/669167163/) | :green_circle: | 28.03.2022 | _Python_ | 55.98 % | 15.49 %
+| [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [link](https://leetcode.com/submissions/detail/669654787/) | :orange_circle: | 29.03.2022 | _Python_ | 53.23 % | 25.60 %
