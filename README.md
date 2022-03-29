@@ -66,3 +66,4 @@ _Mario Cuomo_
 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [link](https://leetcode.com/submissions/detail/669167163/) | :green_circle: | 28.03.2022 | _Python_ | 55.98 % | 15.49 %
 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [link](https://leetcode.com/submissions/detail/669654787/) | :orange_circle: | 29.03.2022 | _Python_ | 53.23 % | 25.60 %
 | [Missing Number](https://leetcode.com/problems/missing-number/) | [link](https://leetcode.com/submissions/detail/669660296/) | :green_circle: | 29.03.2022 | _Python_ | 47.74 % | 98.85 %
+| [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [link](https://leetcode.com/submissions/detail/669662632/) | :orange_circle: | 29.03.2022 | _Python_ | 68.70 % | 11.40 %
