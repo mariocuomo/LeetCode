@@ -72,7 +72,6 @@ _Mario Cuomo_
 
 <div align="center">
   <img src="https://github.com/mariocuomo/LeetCode/blob/main/resources/bar.png" width="500">
-  <img src="https://github.com/mariocuomo/LeetCode/blob/main/resources/memory.png" width="500">
   <img src="https://github.com/mariocuomo/LeetCode/blob/main/resources/speed.png" width="500">
-
+  <img src="https://github.com/mariocuomo/LeetCode/blob/main/resources/memory.png" width="500">
 </div>
