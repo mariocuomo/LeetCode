@@ -68,3 +68,11 @@ _Mario Cuomo_
 | [Missing Number](https://leetcode.com/problems/missing-number/) | [link](https://leetcode.com/submissions/detail/669660296/) | :green_circle: | 29.03.2022 | _Python_ | 47.74 % | 98.85 %
 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [link](https://leetcode.com/submissions/detail/669662632/) | :orange_circle: | 29.03.2022 | _Python_ | 68.70 % | 11.40 %
 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [link](https://leetcode.com/submissions/detail/669667584/) | :green_circle: | 29.03.2022 | _Python_ | 63.75 % | 79.74 %
+
+
+<div align="center">
+  <img src="https://github.com/mariocuomo/LeetCode/blob/main/resources/bar.png">
+  <img src="https://github.com/mariocuomo/LeetCode/blob/main/resources/memory.png">
+  <img src="https://github.com/mariocuomo/LeetCode/blob/main/resources/speed.png">
+
+</div>
