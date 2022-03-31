@@ -72,6 +72,8 @@ _Mario Cuomo_
 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [link](https://leetcode.com/submissions/detail/670366843/) | :green_circle: | 30.03.2022 | _Python_ | 26.03 %  | 95.88 %
 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [link](https://leetcode.com/submissions/detail/670981880/) | :green_circle: | 31.03.2022 | _Python_ | 89.16 %  | 15.83 %
 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [link](https://leetcode.com/submissions/detail/670986658/) | :orange_circle: | 31.03.2022 | _Python_ | 47.95 % | 67.41 %
+| [Sort Colors](https://leetcode.com/problems/maximum-binary-tree/) | [link](https://leetcode.com/submissions/detail/670991221/) | :orange_circle: | 31.03.2022 | _Python_ | 44.07 % | 93.62 %
+
 
 
 
