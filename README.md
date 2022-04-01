@@ -75,7 +75,7 @@ _Mario Cuomo_
 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [link](https://leetcode.com/submissions/detail/670991221/) | :orange_circle: | 31.03.2022 | _Python_ | 44.07 % | 93.62 %
 | [Path Sum](https://leetcode.com/problems/path-sum/) | [link](https://leetcode.com/submissions/detail/670994381/) | :green_circle: | 31.03.2022 | _Python_ | 77.79 % | 87.96 %
 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [link](https://leetcode.com/submissions/detail/671167743/) | :green_circle: | 31.03.2022 | _Python_ | 94.06 % | 42.99 %
-
+| [Add Digits](https://leetcode.com/problems/add-digits/) | [link](https://leetcode.com/submissions/detail/671472373/) | :green_circle: | 01.04.2022 | _Python_ | 95.04 % | 64.11 %
 
 
 
