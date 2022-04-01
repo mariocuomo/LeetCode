@@ -34,7 +34,7 @@ _Mario Cuomo_
 | [Power of Two](https://leetcode.com/problems/power-of-two) | [link](https://leetcode.com/submissions/detail/662883567/) | :green_circle: | 19.03.2022 | _Python_ | 60.81 %  | 97.52 %
 | [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | [link](https://leetcode.com/submissions/detail/662895555/) | :orange_circle: | 19.03.2022 | _Python_ | 80.00 % | 31.48 %
 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [link](https://leetcode.com/submissions/detail/663011215/) | :orange_circle: | 19.03.2022 | _Python_ | 73.42 % | 10.21 %
-| [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [link](https://leetcode.com/submissions/detail/663025280/) | :green_circle: | 19.03.2022 | _MySQL_ | 49.19 % | ???
+| [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [link](https://leetcode.com/submissions/detail/663025280/) | :green_circle: | 19.03.2022 | _MySQL_ | 49.19 % | 100 %
 | [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/) | [link](https://leetcode.com/submissions/detail/663063973/) | :green_circle: | 19.03.2022 | _Bash_ | 34.40 % | 9.45 %
 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [link](https://leetcode.com/submissions/detail/663220102/) | :orange_circle: | 19.03.2022 | _Python_ | 78.91 % | 83.11 %
 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [link](https://leetcode.com/submissions/detail/663607891/) | :green_circle: | 20.03.2022 | _Python_ | 20.26 % | 83.84 %
