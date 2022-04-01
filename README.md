@@ -77,7 +77,7 @@ _Mario Cuomo_
 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [link](https://leetcode.com/submissions/detail/671167743/) | :green_circle: | 31.03.2022 | _Python_ | 94.06 % | 42.99 %
 | [Add Digits](https://leetcode.com/problems/add-digits/) | [link](https://leetcode.com/submissions/detail/671472373/) | :green_circle: | 01.04.2022 | _Python_ | 95.04 % | 64.11 %
 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [link](https://leetcode.com/submissions/detail/671564321/) | :orange_circle: | 01.04.2022 | _Python_ | 73.37 % | 39.09 %
-| [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | [link](https://leetcode.com/submissions/detail/671576133/) | :orange_circle: | 01.04.2022 | _Python_ | 82.88 % | 19.18 %
+| [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | [link](https://leetcode.com/submissions/detail/671576133/) | :green_circle: | 01.04.2022 | _Python_ | 82.88 % | 19.18 %
 
 
 <div align="center">
