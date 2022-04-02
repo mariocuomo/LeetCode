@@ -83,6 +83,7 @@ _Mario Cuomo_
 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [link](https://leetcode.com/submissions/detail/672080503/) | :green_circle: | 02.04.2022 | _Python_ | 91.88 % | 14.10 %
 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [link](https://leetcode.com/submissions/detail/672084540/) | :orange_circle: | 02.04.2022 | _Python_ | 74.88 % | 7.56 %
 | [Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/) | [link](https://leetcode.com/submissions/detail/672086716/) | :green_circle: | 02.04.2022 | _Python_ | 41.38 % | 88.97 %
+| [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [link](https://leetcode.com/submissions/detail/672150039/) | :green_circle: | 02.04.2022 | _Python_ | 86.73 % | 77.25 %
 
 <div align="center">
   <img src="https://github.com/mariocuomo/LeetCode/blob/main/resources/bar.png" width="500">
