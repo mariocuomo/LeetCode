@@ -80,6 +80,7 @@ _Mario Cuomo_
 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | [link](https://leetcode.com/submissions/detail/671576133/) | :green_circle: | 01.04.2022 | _Python_ | 82.88 % | 19.18 %
 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [link](https://leetcode.com/submissions/detail/671612257/) | :green_circle: | 01.04.2022 | _Python_ | 22.92 % | 82.66 %
 | [Number Complement](https://leetcode.com/problems/number-complement/) | [link](https://leetcode.com/submissions/detail/672063620/) | :green_circle: | 02.04.2022 | _Python_ | 99.49 % | 12.82 %
+| [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [link](https://leetcode.com/submissions/detail/672080503/) | :green_circle: | 02.04.2022 | _Python_ | 91.88 % | 14.10 %
 
 <div align="center">
   <img src="https://github.com/mariocuomo/LeetCode/blob/main/resources/bar.png" width="500">
