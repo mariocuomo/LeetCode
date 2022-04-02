@@ -82,7 +82,7 @@ _Mario Cuomo_
 | [Number Complement](https://leetcode.com/problems/number-complement/) | [link](https://leetcode.com/submissions/detail/672063620/) | :green_circle: | 02.04.2022 | _Python_ | 99.49 % | 12.82 %
 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [link](https://leetcode.com/submissions/detail/672080503/) | :green_circle: | 02.04.2022 | _Python_ | 91.88 % | 14.10 %
 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [link](https://leetcode.com/submissions/detail/672084540/) | :orange_circle: | 02.04.2022 | _Python_ | 74.88 % | 7.56 %
-| [Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/) | [link](https://leetcode.com/submissions/detail/672086716/) | :green_circle: | 02.04.2022 | _Python_ | 41.38% % | 88.97 %
+| [Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/) | [link](https://leetcode.com/submissions/detail/672086716/) | :green_circle: | 02.04.2022 | _Python_ | 41.38 % | 88.97 %
 
 <div align="center">
   <img src="https://github.com/mariocuomo/LeetCode/blob/main/resources/bar.png" width="500">
