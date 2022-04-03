@@ -85,6 +85,7 @@ _Mario Cuomo_
 | [Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/) | [link](https://leetcode.com/submissions/detail/672086716/) | :green_circle: | 02.04.2022 | _Python_ | 41.38 % | 88.97 %
 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [link](https://leetcode.com/submissions/detail/672150039/) | :green_circle: | 02.04.2022 | _Python_ | 86.73 % | 77.25 %
 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [link](https://leetcode.com/submissions/detail/672811118/) | :green_circle: | 03.04.2022 | _MySQL_ | 94.34 % | 100.00 %
+| [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [link](https://leetcode.com/submissions/detail/672835921/) | :green_circle: | 03.04.2022 | _Python_ | 41.20 % | 90.51 %
 
 <div align="center">
   <img src="https://github.com/mariocuomo/LeetCode/blob/main/resources/bar.png" width="500">
