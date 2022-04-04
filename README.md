@@ -87,6 +87,7 @@ _Mario Cuomo_
 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [link](https://leetcode.com/submissions/detail/672811118/) | :green_circle: | 03.04.2022 | _MySQL_ | 94.34 % | 100.00 %
 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [link](https://leetcode.com/submissions/detail/672835921/) | :green_circle: | 03.04.2022 | _Python_ | 41.20 % | 90.51 %
 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [link](https://leetcode.com/submissions/detail/673592874/) | :green_circle: | 04.04.2022 | _Python_ | 81.71 % | 56.10 %
+| [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | [link](https://leetcode.com/submissions/detail/673657066/) | :orange_circle: | 04.04.2022 | _Python_ | 62.26 % | 49.42 %
 
 <div align="center">
   <img src="https://github.com/mariocuomo/LeetCode/blob/main/resources/bar.png" width="500">
