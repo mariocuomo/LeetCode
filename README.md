@@ -90,6 +90,7 @@ _Mario Cuomo_
 | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | [link](https://leetcode.com/submissions/detail/673657066/) | :orange_circle: | 04.04.2022 | _Python_ | 62.26 % | 49.42 %
 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [link](https://leetcode.com/submissions/detail/673688762/) | :orange_circle: | 04.04.2022 | _Python_ | 82.83 % | 44.65 %
 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [link](https://leetcode.com/submissions/detail/674181038/) | :green_circle: | 05.04.2022 | _Python_ | 5.16 % | 27.58 %
+| [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [link](https://leetcode.com/submissions/detail/674205709/) | :orange_circle: | 05.04.2022 | _Python_ | 53.09 % | 47.08 %
 
 <div align="center">
   <img src="https://github.com/mariocuomo/LeetCode/blob/main/resources/bar.png" width="500">
