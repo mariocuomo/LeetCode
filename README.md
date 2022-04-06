@@ -92,7 +92,7 @@ _Mario Cuomo_
 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [link](https://leetcode.com/submissions/detail/674181038/) | :green_circle: | 05.04.2022 | _Python_ | 5.16 % | 27.58 %
 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [link](https://leetcode.com/submissions/detail/674206910/) | :orange_circle: | 05.04.2022 | _Python_ | 73.28 % | 65.29 %
 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [link](https://leetcode.com/submissions/detail/674338107/) | :green_circle: | 05.04.2022 | _Python_ | 76.35 % | 83.09 %
-
+| [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [link](https://leetcode.com/submissions/detail/674921092/) | :green_circle: | 06.04.2022 | _Python_ | 55.95 % | 6.33 %
 
 <div align="center">
   <img src="https://github.com/mariocuomo/LeetCode/blob/main/resources/bar.png" width="500">
