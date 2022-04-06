@@ -96,6 +96,7 @@ _Mario Cuomo_
 | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | [link](https://leetcode.com/submissions/detail/674970331/) | :green_circle: | 06.04.2022 | _Python_ | 89.75 % | 15.22 %
 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | [link](https://leetcode.com/submissions/detail/674993344/) | :orange_circle: | 06.04.2022 | _Python_ | 96.33 % | 72.36 %
 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [link](https://leetcode.com/submissions/detail/674996199/) | :orange_circle: | 06.04.2022 | _Python_ | 88.14 % | 46.33 %
+| [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | [link](https://leetcode.com/submissions/detail/675008868/) | :orange_circle: | 06.04.2022 | _Python_ | 59.43 % | 33.96 %
 
 <div align="center">
   <img src="https://github.com/mariocuomo/LeetCode/blob/main/resources/bar.png" width="500">
