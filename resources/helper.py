@@ -1,8 +1,11 @@
 import matplotlib.pyplot as plt
+import numpy as np
+import requests
 
-
-file = open("info.txt","r+") 
-
+url = 'https://raw.githubusercontent.com/mariocuomo/LeetCode/main/README.md'
+page = requests.get(url)
+linee=page.text.split('\n')
+linee=linee[12:len(linee)-11]
 
 count_verdi=0
 count_arancioni=0
@@ -10,7 +13,7 @@ count_arancioni=0
 lstSpeed=[]
 lstMemory=[]
 
-for linea in file.readlines():
+for linea in linee:
 	#split riga con divisore |
 	parti = linea.split('|')
 	colore=parti[3]
@@ -60,20 +63,24 @@ plt.clf()
 
 
 #grafico speed
-plt.hist(lstSpeed,10)
+plt.hist(lstSpeed,20)
 plt.title("VELOCITÀ")
 plt.xlabel("PIU VELOCE DELL'x%")
 plt.ylabel("No. SFIDE COMPLETATE")
+plt.xticks(np.arange(0,105,5))
+plt.yticks(np.arange(0,13,1))
 plt.savefig('speed.png')
 
 plt.clf()
 
 
 #grafico memory
-plt.hist(lstMemory,10)
+plt.hist(lstMemory,20)
 plt.title("MEMORIA")
 plt.xlabel("MENO MEMORIA DELL'x%")
 plt.ylabel("No. SFIDE COMPLETATE")
+plt.xticks(np.arange(0,105,5))
+plt.yticks(np.arange(0,13,1))
 plt.savefig('memory.png')
 
 plt.clf()
