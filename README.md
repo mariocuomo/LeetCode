@@ -98,6 +98,7 @@ _Mario Cuomo_
 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [link](https://leetcode.com/submissions/detail/674996199/) | :orange_circle: | 06.04.2022 | _Python_ | 88.14 % | 46.33 %
 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | [link](https://leetcode.com/submissions/detail/675008868/) | :orange_circle: | 06.04.2022 | _Python_ | 59.43 % | 33.96 %
 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [link](https://leetcode.com/submissions/detail/675242280/) | :green_circle: | 06.04.2022 | _Python_ | 74.11 % | 47.53 %
+| [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [link](https://leetcode.com/submissions/detail/675561500/) | :orange_circle: | 07.04.2022 | _Python_ | 71.24 % | 30.90 %
 
 <div align="center">
   <img src="https://github.com/mariocuomo/LeetCode/blob/main/resources/bar.png" width="500">
