@@ -102,6 +102,8 @@ _Mario Cuomo_
 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [link](https://leetcode.com/submissions/detail/675584147/) | :green_circle: | 07.04.2022 | _Python_ | 88.81 % | 60.00 %
 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [link](https://leetcode.com/submissions/detail/676245135/) | :green_circle: | 08.04.2022 | _Python_ | 85.61 % | 26.20 %
 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [link](https://leetcode.com/submissions/detail/676310005/) | :green_circle: | 08.04.2022 | _Python_ | 59.49 % | 18.48 %
+| [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [link](https://leetcode.com/submissions/detail/676320657/) | :green_circle: | 08.04.2022 | _Python_ | 85.99 % | 9.62 %
+
 
 <div align="center">
   <img src="https://github.com/mariocuomo/LeetCode/blob/main/resources/bar.png" width="500">
