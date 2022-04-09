@@ -103,6 +103,7 @@ _Mario Cuomo_
 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [link](https://leetcode.com/submissions/detail/676245135/) | :green_circle: | 08.04.2022 | _Python_ | 85.61 % | 26.20 %
 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [link](https://leetcode.com/submissions/detail/676310005/) | :green_circle: | 08.04.2022 | _Python_ | 59.49 % | 18.48 %
 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [link](https://leetcode.com/submissions/detail/676320657/) | :green_circle: | 08.04.2022 | _Python_ | 85.99 % | 9.62 %
+| [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [link](https://leetcode.com/submissions/detail/676867863/) | :orange_circle: | 09.04.2022 | _Python_ | 51.13 % | 30.77 %
 
 
 <div align="center">
