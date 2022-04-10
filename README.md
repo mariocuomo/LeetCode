@@ -105,6 +105,7 @@ _Mario Cuomo_
 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [link](https://leetcode.com/submissions/detail/676320657/) | :green_circle: | 08.04.2022 | _Python_ | 85.99 % | 9.62 %
 | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [link](https://leetcode.com/submissions/detail/676867863/) | :orange_circle: | 09.04.2022 | _Python_ | 51.13 % | 30.77 %
 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | [link](https://leetcode.com/submissions/detail/676874633/) | :orange_circle: | 09.04.2022 | _Python_ | 5.59 % | 71.33 %
+| [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [link](https://leetcode.com/submissions/detail/677502600/) | :orange_circle: | 10.04.2022 | _Python_ | 36.93 % | 20.34 %
 
 <div align="center">
   <img src="https://github.com/mariocuomo/LeetCode/blob/main/resources/bar.png" width="500">
