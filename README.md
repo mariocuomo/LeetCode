@@ -107,6 +107,7 @@ _Mario Cuomo_
 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | [link](https://leetcode.com/submissions/detail/676874633/) | :orange_circle: | 09.04.2022 | _Python_ | 5.59 % | 71.33 %
 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [link](https://leetcode.com/submissions/detail/677502600/) | :orange_circle: | 10.04.2022 | _Python_ | 36.93 % | 20.34 %
 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [link](https://leetcode.com/submissions/detail/677509805/) | :green_circle: | 10.04.2022 | _Python_ | 30.41 % | 99.13 %
+| [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [link](https://leetcode.com/submissions/detail/677517849/) | :green_circle: | 10.04.2022 | _Python_ | 63.26 % | 68.58 %
 
 <div align="center">
   <img src="https://github.com/mariocuomo/LeetCode/blob/main/resources/bar.png" width="500">
