@@ -3,9 +3,10 @@
   <img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg">
 </div>
 
-Condivisione soluzione di alcuni problemi proposti sulla piattaforma LeetCode.<br>
-[Link](https://leetcode.com/mariocuomo/) al mio profilo personale.<br>
+Ho deciso di provare a risolvere diverse sfide proposte sulla piattaforma [LeetCode](https://leetcode.com/).<br>
+Condivido qui alcune delle miei soluzioni - dal **11.03.2022** al **11.04.2022**.<br>
 _Mario Cuomo_
+
 
 | PROBLEMA | SOLUZIONE | DIFFICOLTÀ | DATA RISOLUZIONE | LINGUAGGIO | RUNTIME DISTRIBUTION (faster than) | MEMORY DISTRIBUTION (less than)
 | :---: | :---: | :---: | :---: | :---: | :--: | :---: 
