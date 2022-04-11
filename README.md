@@ -4,7 +4,7 @@
 </div>
 
 Ho deciso di provare a risolvere diverse sfide proposte sulla piattaforma [LeetCode](https://leetcode.com/).<br>
-Condivido qui alcune delle miei soluzioni - dal **11.03.2022** al **11.04.2022**.<br>
+Condivido qui alcune delle miei soluzioni - dal **11.03.2022** al **10.04.2022**.<br>
 _Mario Cuomo_
 
 
